@@ -88,5 +88,7 @@ Teknologi sekarang tidak lagi hanya dianggap sebagai alat bantu, tetapi sudah me
 ### DAFTAR PUSTAKA
 
 Barthes, R. (1972). *Mythologies.* 
+
 Baudrillard, J. (1994). *Simulacra and Simulation.* University of Michigan Press.
+
 Davis, E. (2015). *Techgnosis : Myth, Magic, and Mysticisnm in the Age of Information (Rev. Ed)* 
