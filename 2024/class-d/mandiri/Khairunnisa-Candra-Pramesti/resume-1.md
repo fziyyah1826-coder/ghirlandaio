@@ -20,4 +20,4 @@ Sebenarnya sains dan agama memiliki hubungan terikat satu sama lain. Sains menje
 ---
 ## Referensi
 Harari, Y. N. (2018). *Homo Deus: Masa Depan Umat Manusia* (Y. Musthofa. Trans.). PT. Pustaka Alvabet.
-Kelompok 1 4D. (2026). Presentasi Umum: *Hubungan sains dan Agama* [Presentasi Powerpoint].
+Kelompok 1 4D. (2026). *Presentasi Umum: Hubungan sains dan Agama* [Presentasi Powerpoint].
