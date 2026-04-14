@@ -64,6 +64,12 @@ a.	Dasar Utama Perlindungan Informasi (triad CIA)
   2. Integritas (Integrity): Mencegah atau mendeteksi modifikasi data yang tidak sah untuk memastikan bahwa catatan arsip atau koleksi digital tetap asli dan tidak dipalsukan
   3. Ketersediaan (Availability): Memastikan bahwa sistem perpustakaan dan datanya tetap dapat diakses oleh pengguna yang berwenang saat dibutuhkan tanpa gangguan yang tidak sah.
 
+## Analisa resiko keamanan perpustakaan dan arsip digital berdasarkan data historis
+Lembaga informasi harus belajar dari kegagalan, analisis risiko ini didasarkan pada kejadian nyata di masa lalu:
+1. WannaCry dan NotPetya (2017): Serangan ini membuktikan bahwa kegagalan manajemen pembaruan (patching) adalah risiko fatal. Banyak organisasi lumpuh bukan karena kecanggihan serangan, melainkan karena mengabaikan pembaruan sistem dasar untuk celah yang sebenarnya sudah diketahui.
+2. Botnet Mirai (2016): Menunjukkan risiko dari perangkat Internet of Things (IoT) seperti kamera IP atau router yang menggunakan kata sandi bawaan (default), sehingga mudah diambil alih untuk melancarkan serangan besar.
+3. Ancaman Persisten Tingkat Lanjut (APT): Data menunjukkan risiko jangka panjang bagi jaringan pendidikan dan arsip digital, di mana penyerang dapat tetap berada di dalam sistem selama bertahun-tahun tanpa terdeteksi melalui backdoor
+
 ## 2.5 Vektor dasar keamanan siber bagi Perpustakaan atau Arsip digital
 Vektor keamanan siber bagi perpustakaan digital atau arsip digital mengacu kepada saranan yang digunakan oleng ancaman siber tersebut, untuk pertahanan sistem informasi dan merusak aset digital.
 
