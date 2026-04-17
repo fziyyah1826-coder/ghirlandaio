@@ -6,3 +6,4 @@
 ## Dosen Pengampu: Al Muhdil Karim, S. IP., M.Hum
 
 # Pendahuluan
+Perkembangan teknologi informasi memang membuat hidup lebih praktis, tapi sayangnya, kepraktisan ini sering kali lebih cepat dari kecepatan orang berpikir sebelum mengklik sebuah tautan.
