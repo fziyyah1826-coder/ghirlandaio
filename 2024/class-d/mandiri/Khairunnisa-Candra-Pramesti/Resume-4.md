@@ -21,7 +21,7 @@ Pemahan dasar kemanan sistem dari 3 prinsip/ konsep CIA, bisa menghasilkan siste
 
 ## Kesimpulan
 Menerapkan dan menjadikan Triad CIA prinsip utama dalam kemanan sistem suatu organasisasi, perusahaan dan perpustakaan bisa menghasilkan lingkungan atau sistem yang aman dan terjaga dari berbagai ancaman cyber dengan informasi dan data yang dimilki. Alhasil menambah tingkat kepercayaan dari publik, pengguna, clien dan partner bisnis. 
----
+
 # Referensi
 1. Winarianto, P., dan Daud, D. E. (2022). *CIA TRIAD*. Cyber BINUS. https://share.google/YwQozA9pwPvzfAGli
 2. Puti, C. A., Anwar, R. K., Amar, S. C. D., dan Rukmana, E. N. (2024). *Keamanan Informasi dan Privasi Pengguna dan layanan Perpustakaan Digital*.
