@@ -49,5 +49,7 @@ keamanan siber harus dipahami sebagai kombinasi antara aspek teknis dan etis, se
 juga adil dan bertanggung jawab.
 ## Referensi
 PPT kelompok 4 Etika Keamanan Siber Pada Perpustakaan dan Lembaga Arsip Digital: Tantangan dan Strategis
+
 Christen, M., Gordijn, B., & Loi, M. (2020). The Ethics of Cybersecurity
+
 Azibaev, A. G. et al. (2026). Cybersecurity Risk Modeling in Library Information Infrastructure.
