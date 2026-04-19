@@ -10,6 +10,8 @@ Keamanan sistem informasi bukan hanya soal kecanggihan teknologi. Faktor manusia
 
 ## **Pembahasan**
 
+Manusia memegang peran kunci dalam menjaga keamanan sistem informasi. Sering kali, justru faktor manusialah yang jadi celah terbesar dalam pertahanan sebuah sistem.
+
 <ol>
   <li>Pertama, rendahnya kesadaran keamanan (security awareness).</li>
 
@@ -31,3 +33,15 @@ Kontrol akses juga sering jadi masalah gara-gara keputusan manusia. Sistem tanpa
 
 Terakhir, urusan etika digital tidak boleh dianggap remeh. Tanpa tata krama dalam berteknologi, data rawan disalahgunakan, privasi orang lain dilanggar, bahkan muncul tindakan-tindakan merugikan pihak lain. Itulah sebabnya, keamanan informasi bukan cuma soal perangkat atau jaringan saja, tapi sangat ditentukan juga oleh sikap dan perilaku manusia saat menggunakannya.
 </ol>
+
+## **Kesimpulan**
+
+Manusia jadi faktor penentu dalam keamanan sistem informasi. Kalau mereka abai, kurang paham soal ancaman siber, atau lalai saat mengelola sistem, celah bisa terbuka lebar. Kontrol akses yang longgar dan kurangnya etika digital makin memperjelas kalau sering kali manusia adalah bagian paling rentan dalam sebuah sistem. Jadi, mengandalkan teknologi saja tak cukup. Pengguna harus sadar risiko, ikut pelatihan, dan memikul tanggung jawab supaya sistem informasi benar-benar aman dan berjalan optimal.
+
+## Daftar Pustaka
+
+**Nurochman, A., Astuti, E. Y., & Widianingtias, S. (2024)**. _Analisis keamanan siber sistem informasi perpustakaan di Perpustakaan Universitas Jenderal Soedirman_. BACA: Jurnal Dokumentasi dan Informasi, 45(1), 49–64.
+
+**Arifin, M. M. X., Putra, P., & Syarif, V. D. P. (2025)**. _Analisis tingkat keamanan arsip digital dalam menghadapi ancaman keamanan siber_. Journal of Economic and Management (JEM), 2(3).
+
+**Putri, C. A., Anwar, R. K., Amar, S. C. D., & Rukmana, E. N. (2024)**. _Keamanan informasi dan privasi pengguna dalam layanan perpustakaan digital_. Media Pustakawan, 31(3).
