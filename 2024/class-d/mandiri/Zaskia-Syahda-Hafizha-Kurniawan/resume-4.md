@@ -14,3 +14,12 @@ Dasar utama dari keamanan informasi adalah model CIA Triad, yang terdiri dari ti
 
 ​Dalam skala yang lebih besar seperti DDoS, serangan menggunakan jaringan perangkat yang terinfeksi atau bisa disebut dengan botnet untuk menyerang dari berbagai penjuru dunia secara simultan. Hal ini membuktikan bahwa target utama serangan bukan sekadar celah pada perangkat lunak, melainkan ketahanan infrastruktur jaringan itu sendiri. Meskipun data di dalam sistem tetap utuh dan rahasia, ketiadaan akses akibat lumpuhnya gerbang layanan membuat pilar keamanan siber dianggap gagal karena sistem tidak dapat memenuhi fungsinya saat dibutuhkan oleh pengguna yang sah.
 
+### **Kesimpulan**
+Dapat disimpulkan bahwa DoS dan DDoS adalah serangan terhadap ketersediaan layanan yang menyebabkan kerugian akses secara total. Dengan membanjiri infrastruktur melalui permintaan palsu, penyerang berhasil menciptakan kondisi di mana layanan tidak dapat diakses secara normal. Oleh karena itu, integritas dan kerahasiaan data menjadi tidak relevan jika sistem itu sendiri tidak tersedia untuk digunakan, menjadikannya salah satu ancaman paling destruktif bagi reputasi dan operasional sebuah organisasi atau perusahaan.
+
+### **Referensi**
+Stallings, W., & Brown, L. (2018). Computer security: Principles and practice (4th ed.). Pearson Education. Bab 1, hlm. 11-13.
+
+Stallings, W., & Brown, L. (2018). Computer security: Principles and practice (4th ed.). Pearson Education. Bab 7, hlm. 241-260.
+
+Hayes, A. Y., Sabbiq, F. E., & Tsabita, K. H. (2026). Etika keamanan siber pada perpustakaan dan lembaga arsip digital: Tantangan dan strategis [Slide presentasi]. Google Slides. https://docs.google.com/presentation/d/1doS3LMU1zkK_MlP9o0_HiE4OdXe-N89L-Fzb8L9bGBA/edit?usp=sharing
