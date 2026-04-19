@@ -13,3 +13,6 @@ Keempat dengan bantuan pustakawan dengan pelayanan yang ramah untuk membantu pem
 ## Kesimpulan
 
 Perpustakaan menghemat waktu pengguna melalui pengelolaan koleksi yang sistematis,teknologi yang canggih dan pelayanan yang bagus. Dengan pencarian cepat, akses yang mudah serta bantuan pustakawan, memudahkan pengguna mencari informasi yang dibutuhkan, maka dari itu perpustakaan harus tetap berinovasi agar tetap jadi andalan di era digital ini.
+
+## Daftar Pustaka
+- Addin, H. S., Anggraini, H., Yenti, H. N. R. P., Sari, F. W., & Hidayat, I. (2024). Strategi pengembangan koleksi perpustakaan digital. Media Informasi, 33(1), 88–95. https://doi.org/10.22146/mi.v33i1.11481
